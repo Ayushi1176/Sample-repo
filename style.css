@@ -1,0 +1,25 @@
+ {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Merriweather', serif;
+  background-color: #ebf2ff;
+}
+
+h1 {
+  color:red;
+}
+
+h2 {
+  color:yellow;
+}
+
+h3 {
+  color:blue;
+}
+
+h4 {
+  color:green;
+}
